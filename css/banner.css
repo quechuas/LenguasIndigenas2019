@@ -1,0 +1,34 @@
+#banner2{
+	margin-top: 50px; /*margen superior*/
+}
+
+#banner2 img {
+	width: 100%;
+	height: 570px;
+}
+
+#banner2 .texto{
+	position: absolute; /*posiciona el texto sobre la imagen*/
+	top: 70%; /*margen superior*/
+	left: 22%; /*margen izquierdo*/
+	color: #fff; /*color del texto*/
+}
+
+#banner2 h2 {
+	line-height: 60px; /*interlineado entre lineas*/
+	font-size: 50px; /*tama;o de las letras*/
+}
+
+#banner2 p{
+	font-size: 20px; /*tamaño de las letras*/
+}
+
+#banner2 a{
+	display: block; /*efecto de boton*/
+	width: 100px; /*ancho del botón*/
+	color: #fff; /*color*/
+	text-decoration: none;
+	padding: 7px; /*margen*/
+	margin-top: 10px; /*margen superior*/
+	border: 3px solid #fff; /*tamaño y color del borde*/
+}
